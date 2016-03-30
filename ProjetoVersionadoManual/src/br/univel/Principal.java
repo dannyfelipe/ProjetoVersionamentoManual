@@ -7,7 +7,8 @@ public class Principal {
 		//System.out.println("Olá mundo Git.");
 		
 		String world = "World";
-		String msg = "Hello " + world + "!!!";
+		String hello = "Hello";
+		String msg = hello + world + "!!!";
 		System.out.println(msg);
 		
 	}
