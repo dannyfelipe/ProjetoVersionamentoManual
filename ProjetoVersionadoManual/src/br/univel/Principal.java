@@ -7,7 +7,10 @@ public class Principal {
 		//System.out.println("Olá mundo Git.");
 		
 		String msg = "Hello World!!!";
+		
+		System.out.println("-------------------");
 		System.out.println(msg);
+		System.out.println("-------------------");
 		
 	}
 	
